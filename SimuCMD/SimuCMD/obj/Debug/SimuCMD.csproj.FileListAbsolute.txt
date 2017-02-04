@@ -1,0 +1,9 @@
+C:\Users\zy\Desktop\directx\SimuCMD\SimuCMD\bin\Debug\SimuCMD.exe.config
+C:\Users\zy\Desktop\directx\SimuCMD\SimuCMD\bin\Debug\SimuCMD.exe
+C:\Users\zy\Desktop\directx\SimuCMD\SimuCMD\bin\Debug\SimuCMD.pdb
+C:\Users\zy\Desktop\directx\SimuCMD\SimuCMD\obj\Debug\SimuCMD.csprojResolveAssemblyReference.cache
+C:\Users\zy\Desktop\directx\SimuCMD\SimuCMD\obj\Debug\SimuCMD.exe
+C:\Users\zy\Desktop\directx\SimuCMD\SimuCMD\obj\Debug\SimuCMD.pdb
+C:\Users\zy\Desktop\directx\SimuCMD\SimuCMD\bin\Debug\IOM.dll
+C:\Users\zy\Desktop\directx\SimuCMD\SimuCMD\bin\Debug\Aras.Net.dll
+C:\Users\zy\Desktop\directx\SimuCMD\SimuCMD\bin\Debug\Aras.Diagnostics.dll

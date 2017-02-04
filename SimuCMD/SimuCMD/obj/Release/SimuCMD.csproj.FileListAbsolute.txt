@@ -1,0 +1,8 @@
+C:\Users\zy\Desktop\directx\SimuCMD\SimuCMD\bin\Release\SimuCMD.exe.config
+C:\Users\zy\Desktop\directx\SimuCMD\SimuCMD\bin\Release\SimuCMD.exe
+C:\Users\zy\Desktop\directx\SimuCMD\SimuCMD\bin\Release\SimuCMD.pdb
+C:\Users\zy\Desktop\directx\SimuCMD\SimuCMD\bin\Release\IOM.dll
+C:\Users\zy\Desktop\directx\SimuCMD\SimuCMD\bin\Release\Aras.Net.dll
+C:\Users\zy\Desktop\directx\SimuCMD\SimuCMD\bin\Release\Aras.Diagnostics.dll
+C:\Users\zy\Desktop\directx\SimuCMD\SimuCMD\obj\Release\SimuCMD.exe
+C:\Users\zy\Desktop\directx\SimuCMD\SimuCMD\obj\Release\SimuCMD.pdb

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClassLibrary1</name>
+    </assembly>
+    <members>
+        <member name="T:ClassLibrary1.Class1">
+            <summary>
+            测试的类
+            </summary>
+        </member>
+        <member name="M:ClassLibrary1.Class1.Test(System.String,System.Int32)">
+            <summary>
+            测试的方法
+            </summary>
+            <param name="a">参数1</param>
+            <param name="b">参数2</param>
+        </member>
+    </members>
+</doc>
